@@ -1,8 +1,9 @@
 # Email/SMS Spam-Ham Classification
-<img width="1330" alt="Screenshot 2025-05-26 at 5 00 03 PM 2" src="https://github.com/user-attachments/assets/6abf38e5-3112-49a5-ab0a-8d92cd315ce4" />
+<img width="1392" alt="Screenshot 2025-06-02 at 3 24 28 PM" src="https://github.com/user-attachments/assets/0347955e-8270-4838-896c-b9e6006ad1b1" />
 
 
-A machine learning-powered Flask Web Application that classifies Email/SMS messages as either **Spam** or **Ham** (Not Spam).
+
+A Data Science & Machine Learning-powered Flask Web Application that classifies Email/SMS messages as either **Spam** or **Ham** (Not Spam).
 
 ---
 
